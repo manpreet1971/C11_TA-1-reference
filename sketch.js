@@ -17,5 +17,5 @@ function setup() {
 }
 
 function draw() {
-  background(150);
+  background("red");
 }
